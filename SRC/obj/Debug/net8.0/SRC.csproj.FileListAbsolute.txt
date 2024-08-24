@@ -1,0 +1,5 @@
+/home/aluno/Documentos/TADS/auladia23/Auladia23/SRC/obj/Debug/net8.0/SRC.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/TADS/auladia23/Auladia23/SRC/obj/Debug/net8.0/SRC.AssemblyInfoInputs.cache
+/home/aluno/Documentos/TADS/auladia23/Auladia23/SRC/obj/Debug/net8.0/SRC.AssemblyInfo.cs
+/home/aluno/Documentos/TADS/auladia23/Auladia23/SRC/obj/Debug/net8.0/SRC.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/TADS/auladia23/Auladia23/SRC/obj/Debug/net8.0/SRC.sourcelink.json
