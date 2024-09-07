@@ -1,7 +1,7 @@
 using SRC.Interfaces;
 namespace SRC.Entites;
 
-public class Funcionario: Pessoa
+public class Cliente: Pessoa
 
 {
 	
